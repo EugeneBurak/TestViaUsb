@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TestViaUsb:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestViaUsb_jar</output-path>
+    <root id="archive" name="TestViaUsb.jar">
+      <element id="module-output" name="TestViaUsb" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/libs-linux-64-new/jssc-2.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/libs-linux-64-new/jsoup-1.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/libs-linux-64-new/usb4java-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/libs-linux-64-new/javax.json-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/libs-linux-64-new/amqp-client-3.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/libs-linux-64-new/commons-lang3-3.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/libs-linux-64-new/json-simple-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/libs-linux-64-new/javax.json-api-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/libs-linux-64-new/libusb4java-1.2.0-linux-x86_64.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs-linux-64-new">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/libs-linux-64-new" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/libs-linux-64-new" recursive="false" />
+  </library>
+</component>
